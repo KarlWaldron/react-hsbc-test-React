@@ -1,4 +1,5 @@
 Incident Management Frontend with React + Vite
+
 This project provides a user interface for managing incidents using React, powered by Vite for fast development and build processes. It integrates seamlessly with a Spring Boot backend via RESTful API calls.
 
 Features
